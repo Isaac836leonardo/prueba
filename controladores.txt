@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 controlador LadingPague
+=======
+
+controlador Login
+>>>>>>> feature/subActivity12-03-24
