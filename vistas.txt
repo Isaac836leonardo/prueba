@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+VISTA LADINGPAGUE
+=======
+
+VISTA LOGIN
+>>>>>>> feature/Act2
