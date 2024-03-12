@@ -11,7 +11,7 @@
     </header>
     <nav>
         <a href="#">Inicio</a>
-        <a href="#">JUAN de</a>
+        <a href="#">Categorias de</a>
         <a href="#">Contacto</a>
     </nav>
     <section>
@@ -19,7 +19,7 @@
         <p>Bienvenido a mi página simple. Aquí puedes poner tu contenido principal.</p>
     </section>
     <footer>
-        <p>Derechos de autor &copy; 2024 Mi Empresa.</p>
+        <p>Derechos de autor &copy; 2024 DIF.</p>
     </footer>
 </body>
 </html>
