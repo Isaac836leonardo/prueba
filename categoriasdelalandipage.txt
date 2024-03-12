@@ -1,10 +1,12 @@
-<<<<<<< HEAD
-Hola Juan "Hola isa"
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
 
+</head>
 
+<body>
+    
+</body>
 
-JUAN ES GAY jajajaj
-=======
-Hola Juan "Hola isa" como estas?
->>>>>>> feature/Ac2
+</html>
