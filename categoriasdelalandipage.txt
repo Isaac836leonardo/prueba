@@ -6,7 +6,11 @@
 </head>
 
 <body>
+<<<<<<< HEAD
     <p> espero te encuentre bien </p> 
+=======
+    <h1> HOLA MUNDO </h2>
+>>>>>>> feature/html2
 </body>
 
 </html>
