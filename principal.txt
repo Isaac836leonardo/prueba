@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+
+ESTA ES LA MODIFICACIÓN DE LA PRUEBA
+=======
+ESTA ES LA MODIFICACION DE LA SUBPRUEBA.
+>>>>>>> feature/subprueba12-03-2024
